@@ -4,7 +4,7 @@ const Config = {
   addonType: "plugin",
   id: "skymen_set_fov",
   name: "Set FOV",
-  version: "1.0.0.1",
+  version: "1.0.0.2",
   category: "3d",
   // "data-and-storage",
   // "form-controls",
